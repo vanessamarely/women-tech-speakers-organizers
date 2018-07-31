@@ -95,6 +95,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Workshop Speeches, JavaScript, Node.js, AngularJS, Angular, Vue, Web Components, Polymer, HTML/CSS, Flexbox
 - Location - Atlanta, GA
 
+#### Amy Carney
+
+- [@click2carney](https://twitter.com/click2carney)
+- [Blog](https://carneydevelopit.wordpress.com)
+- Topics - Accessibility, HTML, CSS
+- Location - Juneau, AK, USA
+
 #### Kara Carrell
 
 - [@KaraAJC](https://twitter.com/KaraAJC)
@@ -453,6 +460,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Workshops, JavaScript, Universal Components, React, React Native, GraphQL, Apollo GraphQL
 - Location - Hoboken, NJ
 
+#### Colleen Schnettler
+
+- [@leenyburger](https://twitter.com/leenyburger)
+- [Website](https://bitmappeddesigns.com)
+- Topics - Ruby on Rails, Freelancing, Women in Tech/Engineering
+- Location - VA, USA
+
 #### Neem Serra
 
 - [@TeamNeem](http://twitter.com/TeamNeem)
@@ -643,6 +657,22 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Email: sarah.kraynick@e253solutions.com
 - Topics:  Cybersecurity, Cyberwarfare
 - Location - Split my time between Prince Albert Sk, Vancvouer BC, and Amsterdam NL.
+
+#### Sophie Déziel
+- [@sophiedeziel](http://twitter.com/sophiedeziel)
+- [Medium](https://medium.com/@sophiedeziel)
+- [GitHub](https://github.com/sophiedeziel)
+- President of [Montreal.rb](https://montrealrb.com)
+- Email: courrier@sophiedeziel.com
+- Topics:  Ruby, Rails, Open-Source, Best Practices
+- Location - Montreal, Quebec, Canada
+- Languages besides English - French
+
+#### Christina Moro
+- [LinkedIn](https://www.linkedin.com/in/christinamoro/)
+- Email: christina@squarephotos.ca
+- Topics - AI, robotics, diversity and inclusion, Canadian startup ecosystem
+- Location - Toronto, ON, Canada & Montreal, QC, Canada
 
 ### Europe
 
@@ -871,6 +901,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Luxembourg
 - Languages besides English - French
 
+#### Kim van Wilgen
+
+- [@kimvanwilgen](http://twitter.com/kimvanwilgen)
+- [Personal Website](http://www.kimvanwilgen.com)
+- Topics - Continuous delivery, DevSecOps, leadership / lead development, culture / organisation
+- Location - the Netherlands (will travel nationally and internationally)
+- Languages besides English - Dutch
+
 #### Hannah Wolfe
 
 - [@erisDS](http://twitter.com/ErisDS)
@@ -898,6 +936,16 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Data Science, Data Engineering
 - Location - Hambburg, Germany
 - Languages besides English - Romanian, German
+
+
+#### Ana Cidre
+
+- [@AnaCidre_](https://twitter.com/AnaCidre_)
+- [anacidre.com](https://anacidre.com)
+- Topics - JavaScript, Angular, Diversity and Inclusion, Community.
+- Location - Sanxenxo, Spain
+- Languages besides English - Spanish
+
 
 ### India
 
@@ -942,6 +990,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - WebVR, Deep learning
 - Location - Pune, India
 - Contact: Twitter DM
+
+#### Palak Jain
+
+- [@till-tomorrow](https://github.com/till-tomorrow)
+- Android Development | Data structures | Algorithms
+- Location - Hackathons
 
 ### Lebanon
 
@@ -1070,6 +1124,11 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Keynotes, Mentoring, Art & Tech, Making/Crafting, Leadership, Career Development, Women in tech
 - Location - Sydney, Australia
 
+##### Anna Harrison
+- [@shinyUX](https://twitter.com/shinyUX)
+- [Personal Website](http://www.annaharrison.com/)
+- Topics - UX, Design, Marketing, Team Building
+- Location - Brisbane, Australia
 
 ## Organizers
 
@@ -1161,6 +1220,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Group Focus - Web Performance, frontend web performance, JavaScript, Accessibility
 
 ### Canada
+
+#### Laurence de Villers
+- [@L\_de\_V](https://twitter.com/L_de_V)
+- [GDG Montreal Android](http://android-montreal.com/), Montreal, QC
+- Group Focus - Android - GDG - Technical Talks 
+- [Women Techmakers Montreal](https://wtmmontreal.com/), Montreal, QC
+- Special event to promote and empower Women in Tech 
 
 #### Heather Payne
 
@@ -1522,6 +1588,17 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics of Interest - OpenFrameworks, Hardware, Machine Learning, C++, Graphics, WebGL, OpenGL, Python, Security
 - Location - Lagos, Nigeria
 - I'll like to get more experience with the topics mentioned above. Also I'm primarily a Web Developer with 3.5-4yrs experience. I'd like to expand my knowledge with some help learning other languages like C++ or Python, to help me grow my career path.
+
+### Colombia
+
+#### Vanessa Aristizabal
+
+- [@vanessamarely](http://twitter.com/vanessamarely)
+- vanessamarely@gmail.com
+- Topics of Interest- HTML, CSS (and preprocessors), Javascript, Angular, React, UX
+- Location - Medellin, Antioquia, Colombia
+- Languages besides English - Spanish
+- I have experience in Web Development. I like to learn new things and love sharing it with others. I would like to help more women to get involved in tech industry.
 
 ## Contributing
 
